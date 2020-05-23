@@ -1,0 +1,21 @@
+<testsuite name="calc.Calc" tests="2" errors="0" failures="0" skipped="0" time="0.001796" timestamp="2020-05-23T15:35:14.920798" hostname="henrique-Lenovo-ideapad-110-14IBR"><testcase classname="calc.Calc" name="da soma basica" status="passed" time="0.001197"><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: da soma basica
+    Quando somar "2" com "2" ... passed in 0.001s
+    Entao o resultado deve ser "4" ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase><testcase classname="calc.Calc" name="adicao do ponto flutuante" status="passed" time="0.000599"><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: adicao do ponto flutuante
+    Quando somar "2.0" com "2.0" ... passed in 0.000s
+    Entao o resultado deve ser "4.0" ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
