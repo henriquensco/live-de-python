@@ -1,23 +1,23 @@
-##Testando sem frameworks [0]
+## Testando sem frameworks [0]
 
 ```
-assert <valor> <codiçÃo> <valor>
-``
+assert <valor> <codição> <valor>
+```
 
-##Testando sem frameworks [1]
+## Testando sem frameworks [1]
 
 ```
 assert 3 == 3
 ```
 
-##Testando sem frameworks [2]
+## Testando sem frameworks [2]
 
 ```
 assert 3 > 3
 ```
 
-##Testando sem frameworks [3]
+## Testando sem frameworks [3]
 
 ```
-assert 3 > 3, '3 nÃo É maior que 3'
+assert 3 > 3, '3 não é maior que 3'
 ```
