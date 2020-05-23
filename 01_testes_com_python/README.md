@@ -1,13 +1,13 @@
 # O que vamos ver hoje?
 
 - Testando sem frameworks
-- Testes unitÁrios (unittest)
--- Testes bÁsicos
+- Testes unitários (unittest)
+-- Testes básicos
 -- TDD
 
 - Testes de comportamento (Behave)
--- Testes bÁsicos
+-- Testes básicos
 -- BDD
 
-- MutaçÃo de testes (se der tempo)
+- Mutação de testes (se der tempo)
 
